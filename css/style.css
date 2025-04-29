@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #f8f8f8;
+    background-color: #272c31;
+}
+
+h1 {
+    color: #ffffff;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+li {
+    padding: 8px 0;
+    font-size: 18px;
+}
+
+.caixa_selecao{
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.section-title {
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.continue {
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+    transform: scale(1.3);
+}
